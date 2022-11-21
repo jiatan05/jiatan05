@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiatan05
 - 👀 I’m interested in solving process and strategy problems with data
-- 🌱 I’m currently learning SQL, ML and Neural Network
+- 🌱 I’m currently learning SQL, ML and Deep Learning
 - 💞️ I’m looking to work on projects that are in the public health field
 - 📫 How to reach me: dm me on LinkedIn!
 
